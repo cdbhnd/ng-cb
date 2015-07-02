@@ -1,0 +1,17 @@
+{
+  "name": "sl-core",
+  "version": "1.0.0",
+  "description": "Codebehind ng components library",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AllThingsTalk",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "run-sequence": "^1.1.1"
+  }
+}
